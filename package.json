@@ -1,0 +1,8 @@
+{
+  "name": "esp32-face-vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  }
+}
